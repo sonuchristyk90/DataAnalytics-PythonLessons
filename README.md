@@ -10,4 +10,5 @@ Some key statistics such as Mean, Median were computed using python functions an
 The data that we are working on is BlueJaysThreeMonthScores.xlsx which has been uploaded.
 
 Author
+
 Sonu Liza Christopher
